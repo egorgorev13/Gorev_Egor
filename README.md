@@ -3,11 +3,11 @@
 Рад, что ты заглянул 🚀
 -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,30:E6E6FA,60:B5D8FF,100:6C63FF&height=120&section=header" alt="header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3200&pause=800&color=2F80ED&center=true&vCenter=true&multiline=true&width=900&height=160&lines=Egor+Gorev;Senior+QA+Engineer;Backend+%7C+API+%7C+Integration+Testing;8%2B+years+of+experience+in+QA;Python+Automation+in+progress" />
-</p>
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=26&duration=4200&pause=600&color=4F46E5&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Egor+Gorev;Senior+QA+Engineer;Backend+%7C+API+%7C+Integration+Testing;8%2B+years+of+experience;Currently+focused+on+Python+Automation" alt="QA Engineer"/>
+</a>
 
 ---
 
